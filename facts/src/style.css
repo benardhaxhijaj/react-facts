@@ -90,16 +90,16 @@ nav.dark .toggler--slider--circle {
 }
 
 .toggler--light {
-  color: #2b283a;
+  color: #000000;
   font-size: 2rem;
 }
 
 nav.dark .toggler--light {
-  color: #918e9b;
+  color: #ffffff;
 }
 
 .toggler--dark {
-  color: #d5d4d8;
+  color: #000000;
 }
 
 nav.dark .toggler-dark {
@@ -123,7 +123,7 @@ main {
 }
 
 main.dark {
-  background-color: #2b283a;
+  background-color: #323232;
   color: white;
 }
 
